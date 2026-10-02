@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dad\\formulario tabla\\formulario_tabla\\formulario_tabla.csproj": {}
+    "C:\\Users\\noevi\\source\\repos\\DAD-Windows-Form\\formulario tabla\\formulario_tabla\\formulario_tabla.csproj": {}
   },
   "projects": {
-    "C:\\dad\\formulario tabla\\formulario_tabla\\formulario_tabla.csproj": {
+    "C:\\Users\\noevi\\source\\repos\\DAD-Windows-Form\\formulario tabla\\formulario_tabla\\formulario_tabla.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dad\\formulario tabla\\formulario_tabla\\formulario_tabla.csproj",
+        "projectUniqueName": "C:\\Users\\noevi\\source\\repos\\DAD-Windows-Form\\formulario tabla\\formulario_tabla\\formulario_tabla.csproj",
         "projectName": "formulario_tabla",
-        "projectPath": "C:\\dad\\formulario tabla\\formulario_tabla\\formulario_tabla.csproj",
+        "projectPath": "C:\\Users\\noevi\\source\\repos\\DAD-Windows-Form\\formulario tabla\\formulario_tabla\\formulario_tabla.csproj",
         "packagesPath": "C:\\Users\\noevi\\.nuget\\packages\\",
-        "outputPath": "C:\\dad\\formulario tabla\\formulario_tabla\\obj\\",
+        "outputPath": "C:\\Users\\noevi\\source\\repos\\DAD-Windows-Form\\formulario tabla\\formulario_tabla\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\noevi\\AppData\\Roaming\\NuGet\\NuGet.Config",

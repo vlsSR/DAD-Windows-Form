@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("formulario_tabla")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d591db40adb1be6ccc76b444c348fb670ae2f8c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("formulario_tabla")]
 [assembly: System.Reflection.AssemblyTitleAttribute("formulario_tabla")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
